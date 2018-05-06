@@ -78,4 +78,6 @@ theme: material
 # Deployment
 ## Docs: https://hexo.io/docs/deployment.html
 deploy:
-  type:
+  type: git
+  repository: https://github.com/KarlHuang0509/karlhuang0509.github.io.git
+  branch: master
